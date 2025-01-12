@@ -1,2 +1,2 @@
-print('git is good!')
+print('2')
 
